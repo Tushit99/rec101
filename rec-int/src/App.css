@@ -1,0 +1,30 @@
+.App {
+  padding: 30px ;  
+}
+
+nav{
+  display: flex ;   
+  padding: 0px 26px;   
+  background-color: black ; 
+  color: white ; 
+  align-items: center; 
+  justify-content: center ;
+}
+
+nav>h3{
+  flex: 3;  
+}
+nav>div{
+  flex: 4;  
+}
+nav>div>a{
+  margin: 0px 15px ;
+}
+nav>button{  
+  flex: 1;  
+  background-color: blue ; 
+  padding: 8px 5px ; 
+  border-radius: 25px ;  
+  color: white ; 
+}   
+
