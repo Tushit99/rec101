@@ -1,0 +1,25 @@
+.btn{
+    border: 5px solid rgb(68, 240, 0) ;
+    padding: 4px; 
+    height: 2px; 
+    width: 2px; 
+    background-color: rgb(206,206,206) ;  
+    border-radius: 20px;
+    cursor: pointer; 
+}
+
+.todo{
+    display: flex; 
+    width: 260px; 
+    justify-content: space-between;
+}
+
+.btt{
+    border: 5px solid rgb(13, 0, 255) ;
+    padding: 4px; 
+    height: 2px; 
+    width: 2px; 
+    background-color: rgb(206,206,206);  
+    border-radius: 20px;
+    cursor: pointer; 
+}

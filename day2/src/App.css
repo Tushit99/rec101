@@ -1,0 +1,37 @@
+.App {
+  text-align: center; 
+  padding: 50px;  
+}  
+
+input{
+  border: 0px ; 
+  background-color: rgb(254,254,254);
+  border-radius: 10px;  
+  font-size: large;
+  padding:5px 6px;
+  margin: 5px; 
+}
+
+button{
+  margin: 5px ; 
+  border-radius: 10px;  
+  padding:5px 16px; 
+  font-size: large;  
+  cursor: pointer; 
+  background-color: rgb(254,254,254);
+  border: 0px;
+}  
+
+.todo{
+  margin: 5px ; 
+  border-radius: 10px;  
+  padding:5px 16px; 
+  font-size: large;  
+  width: 260px; 
+  margin: auto;   
+  margin-bottom: 20px;  
+  background-color: rgb(254,254,254);
+  border: 0px;
+}
+
+
