@@ -1,0 +1,21 @@
+{
+    "data":[
+        {
+            "date": "28/10/2020" , 
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/amazon-2752252-2285069.png" ,
+            "heading": "Amazon Gift " ,
+            "subheading": "Pay" ,
+            "devices": "Desktop - Mobile" ,
+            "color": "rgb(255,153,0)" 
+        },  
+        {  
+            "date": "17/10/2020" ,   
+            "logo": "https://wallpaperaccess.com/full/5451470.jpg" ,   
+            "heading": "Apple Gift" ,  
+            "subheading": "Payment" ,    
+            "devices": "MacOS - Mobile" ,  
+            "color": "rgb(159,159,159)"   
+        }   
+    ]  
+}   
+
