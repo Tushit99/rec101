@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+        "name": "Chaitanya Parathas",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Beverages"
+        ],
+        "rating": 4.5,
+        "deliveryTimings": 33 ,
+        "costfortwo": 200,
+        "offer": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 4.0,
+        "deliveryTimings": 25 ,
+        "costfortwo": 250,
+        "offer": ["10% off", "Use TRYNEW"]
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg" ,
+        "name": "Lunch Box",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Biryani",
+          "Combo",
+          "Healthy Food", 
+          "Jain",
+          "Thalis"
+        ],
+        "rating": 3.2,
+        "deliveryTimings": 31 ,
+        "costfortwo": 470,
+        "offer": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name": "The Hungry Hippe",
+        "category": [
+          "Italian",
+          "Punjabi",
+          "Chinese",
+          "Thalis Combo",
+          "Thai"
+        ],
+        "rating": 2.3,
+        "deliveryTimings": 38 ,
+        "costfortwo": 500,
+        "offer": ["40% off", "Use TRYNEW"]
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "Pizzas",
+          "Chinese",
+          "Thalis Combo",
+          "Punjabi"
+        ],
+        "rating": 5.0,
+        "deliveryTimings": 45 ,
+        "costfortwo": 600,
+        "offer": ["50% off", "Use TRYNEW"]
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name": "Starbucks Coffee",
+        "category": [
+          "Ice Cream",
+          "Beverages" ,
+          "Mocktails"
+        ],
+        "rating": 5.2,
+        "deliveryTimings": 36 ,
+        "costfortwo": 400 ,
+        "offer": ["40% off", "Use TRYNEW"]
+      },
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "Pizzas",
+          "Chinese",
+          "Thalis Combo",
+          "Punjabi"
+        ],
+        "rating": 4.1,
+        "deliveryTimings": 45 ,
+        "costfortwo": 600,
+        "offer": ["50% off", "Use TRYNEW"]
+      },
+      {
+        "id": 8 ,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant8.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 4.0,
+        "deliveryTimings": 25 ,
+        "costfortwo": 250,
+        "offer": ["10% off", "Use TRYNEW"]
+      }, 
+      {
+        "id": 9 ,
+        "image": "https://cdn.tasteatlas.com//images/toplistarticles/d0e6a0a79d5f4197a51f4ca065393ffe.jpg?w=375&h=280",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 3.4,
+        "deliveryTimings": 35 ,
+        "costfortwo": 640,
+        "offer": ["20% off", "Use TRYNEW"]
+      },
+      {
+        "id": 10 ,
+        "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/03/Chicken-Tikka-Masala.jpg?quality=82&strip=1" ,
+        "name": "The Hungry Hippe",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 4.6,
+        "deliveryTimings": 42 ,
+        "costfortwo": 180,
+        "offer": ["10% off", "Use TRYNEW"]
+      },
+      {
+        "id": 11 ,
+        "image": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F3070%2Ftrend20210218124824.jpg" ,
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 5.2,
+        "deliveryTimings": 25 ,
+        "costfortwo": 250,
+        "offer": ["10% off", "Use TRYNEW"]
+      }, 
+      {
+        "id": 12 ,
+        "image": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2033%2Ftrend20180920125236.jpg" ,
+        "name": "Lunch Box",
+        "category": [
+          "Snacks",
+          "Pizza",
+          "Steet Food",
+          "Beverages"
+        ],
+        "rating": 2.0,
+        "deliveryTimings": 30 ,
+        "costfortwo": 530,
+        "offer": ["10% off", "Use TRYNEW"]
+      } 
+]
