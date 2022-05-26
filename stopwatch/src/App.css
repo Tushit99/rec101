@@ -1,42 +1,88 @@
+.main {
+  text-align: center;
+  margin: 0px;
+}
+
+.main>img {
+  width: 250px;
+  margin-top: 20px;
+  border-radius: 150px;
+  box-shadow: rgba(0, 0, 0, 0.457) 0px 3px 8px;
+}
+
 .App {
   text-align: center;
+  background-color: rgb(32, 33, 36);
+  width: 500px;
+  padding: 20px 0px 0px 0px;
+  border-radius: 10px;
+  color: rgb(240, 240, 240);
+  margin-top: 20px;
+  border: 2px solid black;
+  box-shadow: rgba(49, 46, 240, 0.4) 5px 5px, rgba(46, 59, 240, 0.3) 10px 10px, rgba(46, 56, 240, 0.2) 15px 15px, rgba(46, 65, 240, 0.163) 20px 20px, rgba(75, 46, 240, 0.099) 25px 25px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 80px;
+  margin: 18px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2 {
+  font-size: xxx-large;
+  margin: 10px 0px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.but {
+  width: 100%;
+  background-color: rgb(32, 33, 36);
+  padding: 14px 0px;
+  text-align: left;
+  border-top: 1px solid rgb(177, 177, 177);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 button {
-  font-size: calc(10px + 2vmin);
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 2px;
+  padding: 8px 20px;
+  margin: 0px 10px;
+  cursor: pointer;
+  background-color: rgb(46, 47, 50);
+  color: white;
 }
+
+.box {
+  text-align: center;
+  background-color: rgb(32, 33, 36);
+  width: 500px;
+  padding: 20px 0px 0px 0px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  margin-top: 35px;
+  border: 2px solid black;
+  box-shadow: rgba(49, 46, 240, 0.4) 5px 5px, rgba(0, 17, 255, 0.3) 10px 10px, rgba(46, 56, 240, 0.2) 15px 15px, rgba(46, 65, 240, 0.163) 20px 20px, rgba(75, 46, 240, 0.099) 25px 25px;
+}
+
+.box>p {
+  margin-top: 0px;
+}
+
+.display{
+  display: flex; 
+  justify-content: space-between;   
+  padding: 0px 150px 0px 50px ;
+  margin: auto;  
+  /* border: 3px solid white ; */
+}
+
+.imag{
+  width: 300px; 
+  border-radius: 100px; 
+  margin-top: 60px;
+}
+
+

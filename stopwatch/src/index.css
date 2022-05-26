@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.wallpaperflare.com/static/915/365/97/fringe-tv-series-handprints-black-background-blue-wallpaper.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100% ; 
 }
 
 code {
