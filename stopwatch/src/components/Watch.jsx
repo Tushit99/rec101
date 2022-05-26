@@ -2,15 +2,18 @@ import React from 'react'
 import {useState} from "react"; 
 
 const Watch = () => {
-    const [timeid,settimeid] = useState();
-    const [watch, setwatch] = useState(0);  
+    // const [timeid,settimeid] = useState();
+    // const [watch, setwatch] = useState(0);  
+
+    const timerid = useRef()
+
 
     const start = ()=>{
         if(!timeid){
             let id = setInterval(()=>{
                 setwatch((prev)=>prev +1)
             },100); 
-            settimeid(id);  
+            (id);  
         }
     };  
     const pause =()=>{
