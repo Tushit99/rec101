@@ -1,0 +1,103 @@
+.App {    
+  text-align: center ;    
+  display: flex ;    
+  justify-content: space-evenly;     
+  align-items: center;    
+  padding-top: 2rem ;    
+  background-color: rgb(255, 255, 255) ;      
+}     
+
+.payment{
+  max-width: 480px; 
+  background-color: rgb(175, 175, 175); 
+  padding: 6px 0px ; 
+}
+
+.form{
+  position: relative; 
+  display: flex ;
+  justify-content: left;  
+  align-items: center ;   
+  margin: auto ;   
+  /* background-color: darkblue;  */
+  padding: 10px;
+} 
+
+h2{
+  margin: 0px 0px 0px 0px;
+}
+
+h4{
+  margin: 0px 0px 0px 0px;
+}
+
+
+.fo{
+  width: 150px; 
+  position: relative; 
+  display: flex ;
+  justify-content: left;  
+  align-items: center ;   
+  margin: 0px 24px 0px 0px ;
+}
+
+
+.form2{
+  position: relative; 
+  display: flex ;
+  justify-content: left;  
+  align-items: center ;   
+  margin: auto ;   
+  padding: 10px;   
+}   
+
+.inp{  
+  border-bottom: 2px solid rgb(255, 255, 255) ;
+  width: 100% ; 
+}
+
+.go{
+  margin: 30px 0px;
+}
+
+input{
+  border: none ;
+  border-bottom: 2px solid rgb(227, 227, 227); 
+  background-color: unset ;  
+  outline: none ;  
+  font-family: "poppins"   , "helvetica", sans-serif ; 
+  font-size: 1em  ; 
+  width: 350px; 
+  /* min-width: 20vmin ;   */
+}
+
+label{
+  position: absolute ;  
+  margin-bottom: 2px;
+  color: rgb(0, 0, 0); 
+  transform-origin: 0 0 ;
+}
+ 
+input:focus + label, input:not(:placeholder-shown) + label {
+  transform: translateY(-1.2em) scale(0.8) ;
+}
+
+.cardimg{
+  width: 510px; 
+}
+ 
+button{
+  border: 0px ; 
+  color: rgb(255, 255, 255) ;
+  background-color: rgb(246,66,91) ; 
+  padding: 10px 40px ;
+  font-size: medium ; 
+  border-radius: 10px ; 
+  cursor: pointer ;  
+}
+
+button:active{
+  letter-spacing: 1px;
+}
+
+
